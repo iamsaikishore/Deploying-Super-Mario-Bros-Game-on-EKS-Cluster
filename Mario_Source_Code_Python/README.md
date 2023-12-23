@@ -10,6 +10,7 @@ $ python main.py
 * use key 'Space' to jump
 * use key 's' to shoot firewall or run
 
+https://copyassignment.com/super-mario-game-in-python-using-pygame/
 https://github.com/Vatsal-Rakholiya/Mario-in-Python.git
 
 ### *********** NOT_WORKING ************
