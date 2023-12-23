@@ -10,6 +10,10 @@ $ python main.py
 * use key 'Space' to jump
 * use key 's' to shoot firewall or run
 
+https://github.com/Vatsal-Rakholiya/Mario-in-Python.git
+
+***********NOT_WORKING************
+***********FIX_IT*****************
 
 ```
 docker build -t mario .
