@@ -12,8 +12,8 @@ $ python main.py
 
 https://github.com/Vatsal-Rakholiya/Mario-in-Python.git
 
-***********NOT_WORKING************
-***********FIX_IT*****************
+### *********** NOT_WORKING ************
+### **************** FIX_IT *****************
 
 ```
 docker build -t mario .
